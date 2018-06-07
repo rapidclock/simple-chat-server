@@ -10,4 +10,4 @@ Use `nc localhost 4000` via terminal to initiate session with Server (as a clien
 ## Current Features
 - Matches first available clients with each other.
 - If one client disconnects, puts the other client back into the matching pool.
-- Allows multiple connections between matching client pairs.
+- Allows multiple simultaneous chat sessions.
